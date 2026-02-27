@@ -46,4 +46,5 @@ Meu objetivo é conquistar minha primeira oportunidade como desenvolvedor e cont
 ## 📫 Contato
 
 LinkedIn: https://www.linkedin.com/in/marcus-vin%C3%ADcius-pereira-da-silva-lurrotay
+<br>
 GitHub: https://github.com/marvinmarvin2089-source
